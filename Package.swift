@@ -11,6 +11,7 @@ let package = Package(
         .library(
             name: "RxWebKit",
             targets: ["RxWebKit"]),
+            path: "./",
     ],
     dependencies: [
         // Dependencies declare other packages that this package depends on.
